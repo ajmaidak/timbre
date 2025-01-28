@@ -52,7 +52,7 @@ You can [help support][sponsor] continued work on this project, thank you!! 🙏
 ## License
 
 Copyright &copy; 2014-2024 [Peter Taoussanis][].  
-Licensed under [EPL 1.0](LICENSE.txt) (same as Clojure).
+Licensed under [EPL 1.0](LICENSE) (same as Clojure).
 
 <!-- Common -->
 
